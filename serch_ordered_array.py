@@ -15,6 +15,3 @@ def serch_ordered(V, arr):
             
             
 print(serch_ordered(5, [1,2,3,4,5,6,7,8,9]))
-
-
-"new"
